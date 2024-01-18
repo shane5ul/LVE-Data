@@ -1,0 +1,21 @@
+Species	PBd
+Temp	25C
+Me	1543 (Fetters, McLeish uses 1850, kinda consistent)
+GN0	1.15 MPa (McLeish use with 1.2 factor of 1.25MPa)
+Reference: Daniels et. al., Macromolecules, 2001, 34 (7025)
+
+Characterization:
+
+
+	MW(arm)	Sa	MW(bb)	Sb
+PBC2	10.30	6.68	123.20	79.84
+PBC3	17.70	11.47	124.60	80.75
+PBC4	24.60	15.94	120.10	77.84
+PBC5	11.90	7.71	63.90	41.41
+PBC6	28.80	18.66	60.50	39.21
+PBC7	22.70	14.71	61.40	39.79
+PBC8	22.70	14.71	118.50	76.80
+PBC9	20.10	13.03	81.80	53.01
+PBC10	14.90	9.66	53.80	34.87
+PBC11	5.80	3.76	62.70	40.64
+

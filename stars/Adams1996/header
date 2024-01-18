@@ -1,0 +1,14 @@
+Species	Star PBD
+Temp	25 C
+GN0	1.25e+6 Pa
+Ref	Adams CH, Hutchings LR, Klein PG, McLeish TCB, Richards RW (1996), Macromolecules, 29:5717-5722
+
+units: G* = Pa
+
+3-armed star (f=2.8)	MW=97.2K, Nen=15.3
+4-armed star (f=3.9)	MW=135.5K, Nen=15.3
+8-armed star (f=7.2)	MW=217.5K, Nen=13.3	
+12-armed star (f=11.8)	MW=353K, Nen=13.18
+
+									
+

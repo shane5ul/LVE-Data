@@ -1,0 +1,10 @@
+Species	Star h-PBD
+Temp	190 C
+GN0	4.6 times smaller than for linear(2.31 M Pa)
+Ref	Raju, Rapachudy, Graessley, 1979
+
+Polymer	MW	f
+4HPB-1	78K	4
+3PHPB-1	134K	3
+3HPB-2	153K	3
+

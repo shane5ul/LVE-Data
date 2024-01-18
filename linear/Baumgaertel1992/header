@@ -1,0 +1,6 @@
+Species	Linear PBD
+Temp	28 C
+GN0	1.25e+6 Pa
+Ref	Baumgaertel M, De Rosa ME, Machado J, Masse M, Winter HH, 1992, Rheo Acta 31:75-82
+
+units: omega in /sec; G' and G" in Pa

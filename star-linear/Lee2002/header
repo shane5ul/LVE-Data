@@ -1,0 +1,9 @@
+Species	Star-Linear PBD Blend
+Temp	28 C
+GN0	1.25 M Pa
+Ref	Jung H. Lee and Lynden Archer, Macromolecules, 2002, 35 (17), pp 6687–6696
+
+MW	6-arm star Marm = 73K, and bunch of linears: 18K, 48K, 67K, 87K, 129K, 176K, 246K, 336K
+	last number in nomenclature indicates volume fraction of star
+
+units: Pa

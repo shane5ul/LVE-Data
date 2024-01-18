@@ -1,0 +1,11 @@
+Species	Linear PS, blend		
+Temp	160 C		
+GN0	0.2 M Pa		
+Reference Onogi, Masuda and Kitagawa (1970), Macromolecules, 3:109		
+
+units; Pa
+
+L5  (MW=351K)
+L15 (MW=215K)
+BB25 has equal amounts of L5 and L15
+

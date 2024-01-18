@@ -1,0 +1,19 @@
+Species	PS Combs
+Temp	169.5 C
+GN0	0.2 M Pa
+Ref	Roovers and Graessley (1981), Macromolecules 14:766-773
+Units   dyn/cm2
+
+600 Series : M_bb = 275K		
+Sample	M_br	# branches	
+C6bb				
+C612	6.5K	31	
+C632	25.7K	25	
+C652	98K	29	
+
+700 Series : M_bb = 860 K
+Sample	M_br	# branches
+C7bb
+C722	11.7K	28
+C732	25.7K	26
+C742	22.3K	29

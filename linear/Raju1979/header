@@ -1,0 +1,19 @@
+Species	Linear h-PBD
+Temp	190 C
+GN0	2.31 M Pa
+Ref	Raju,  Rachapudy and Graessley, J Pol Sci : Pol Phys Ed 17:1223
+
+units: G* - dyn/cm2
+
+(a)=calc from PBD precursors
+(b)=calc from eta_tcb with eq(1)
+
+Polymer	Mwx1e-4(a)	Mwx1e-4(b)
+PHPB-1	4.17	4.39
+PHPB-2	5.33	6.02
+PHPB-3	12.3	11.9
+HPB-1	8.03	7.15
+HPB-2	17.4	17.4
+HPB-3	21.1	20.2
+HPB-4	36	35.9
+
